@@ -1,0 +1,13 @@
+.cam {
+  padding: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.cam img {
+  max-width: 300px;
+}
+
+.template {
+  display: none;
+}
